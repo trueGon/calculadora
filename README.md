@@ -1,3 +1,3 @@
 # calculadora
 
-Fiz um APP de uma calculadroa IMC 
+Fiz um APP de uma calculadora IMC 
